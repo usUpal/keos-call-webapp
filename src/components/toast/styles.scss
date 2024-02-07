@@ -33,11 +33,11 @@
 
   &--error {
     // color: ui-vars.$jambonz;
-    color: ui-vars.$primary;
+    color: vars.$keosprimary;
 
     .toast__box {
       // border: 2px solid ui-vars.$jambonz;
-      border: 2px solid ui-vars.$primary;
+      border: 2px solid vars.$keosprimary;
     }
   }
 
@@ -46,7 +46,7 @@
 
     .toast__box {
       // border: 2px solid ui-vars.$teal;
-      border: 2px solid ui-vars.$primary;
+      border: 2px solid vars.$keosprimary;
     }
   }
 
