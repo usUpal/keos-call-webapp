@@ -322,4 +322,20 @@ a.navi__link.txt--jean {
 .navi__byo {
   color: vars.$secondarybg;
 }
+
+.smsel--navi select {
+  border-color: vars.$secondarybr-c;
+}
+
+.navi__routes {
+  border-top: 1px solid vars.$secondarybr-c;
+}
+
+.navi__logo {
+  border-top: 1px solid vars.$secondarybr-c;
+}
+
+.btn--hollow.btn--dark {
+  border-color: vars.$secondarybr-c;
+}
 // -----srabon-----
